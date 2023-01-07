@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @calvinista
-- 👀 I’m interested in ... Programing 
+- 👀 I’m interested in ... Programing, Software Engineering 
 - 🌱 I’m currently learning ... Software Engineering
-- 💞️ I’m looking to collaborate on ... TOTVS, CWI, DBC, Dell Technologies, Unreal Engine, IBM, NSA  
+- 💞️ I’m looking to collaborate on ... TOTVS, DBC, Dell Technologies, Unreal Engine, IBM, NSA  
 - 📫 How to reach me ...
 
 <!---
