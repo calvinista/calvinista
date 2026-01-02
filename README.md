@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @calvinista
-- 👀 I’m interested in ... Programing, Software Engineering 
-- 🌱 I’m currently learning ... Software Engineering
-- 💞️ I’m looking to collaborate on ... TOTVS, DBC, Dell Technologies, Unreal Engine, IBM, NSA  
+- 👋 Hi, I’m Calvin Silva da Silveira, Computer Science student at Federal University of Rio Grande do Sul (UFRGS)
+- 👀 I’m interested in ... Software Development, Software Engineering and Cybersecurity 
+- 🌱 I’m currently learning ... Python, C++, C, Java, in addition to keep going my studies on Programming field
+- 💞️ I’m looking to collaborate on ... innovative solutions in a global environment and deepen knowledge in agile methodologies and robust software development  
 - 📫 How to reach me ...
 
 <!---
